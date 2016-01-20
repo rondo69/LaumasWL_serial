@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Libra\Laumas\V1_WL60\laumas_wl60\bin\Debug\laumas_wl60.exe.config
+C:\Users\Administrator\Documents\Libra\Laumas\V1_WL60\laumas_wl60\bin\Debug\laumas_wl60.exe
+C:\Users\Administrator\Documents\Libra\Laumas\V1_WL60\laumas_wl60\bin\Debug\laumas_wl60.pdb
+C:\Users\Administrator\Documents\Libra\Laumas\V1_WL60\laumas_wl60\obj\Debug\laumas_wl60.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Libra\Laumas\V1_WL60\laumas_wl60\obj\Debug\laumas_wl60.Form1.resources
+C:\Users\Administrator\Documents\Libra\Laumas\V1_WL60\laumas_wl60\obj\Debug\laumas_wl60.Properties.Resources.resources
+C:\Users\Administrator\Documents\Libra\Laumas\V1_WL60\laumas_wl60\obj\Debug\laumas_wl60.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Libra\Laumas\V1_WL60\laumas_wl60\obj\Debug\laumas_wl60.exe
+C:\Users\Administrator\Documents\Libra\Laumas\V1_WL60\laumas_wl60\obj\Debug\laumas_wl60.pdb

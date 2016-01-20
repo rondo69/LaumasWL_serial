@@ -1,0 +1,28 @@
+C:\Users\Administrator\Documents\Libra\Firme\MIP Sisak\cs_mip\mip_dos\mip_dos\bin\Debug\mip_dos.exe.config
+C:\Users\Administrator\Documents\Libra\Firme\MIP Sisak\cs_mip\mip_dos\mip_dos\bin\Debug\mip_dos.exe
+C:\Users\Administrator\Documents\Libra\Firme\MIP Sisak\cs_mip\mip_dos\mip_dos\bin\Debug\mip_dos.pdb
+C:\Users\Administrator\Documents\Libra\Firme\MIP Sisak\cs_mip\mip_dos\mip_dos\obj\Debug\mip_dos.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Libra\Firme\MIP Sisak\cs_mip\mip_dos\mip_dos\obj\Debug\mip_dos.Form1.resources
+C:\Users\Administrator\Documents\Libra\Firme\MIP Sisak\cs_mip\mip_dos\mip_dos\obj\Debug\mip_dos.Properties.Resources.resources
+C:\Users\Administrator\Documents\Libra\Firme\MIP Sisak\cs_mip\mip_dos\mip_dos\obj\Debug\mip_dos.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Libra\Firme\MIP Sisak\cs_mip\mip_dos\mip_dos\obj\Debug\mip_dos.exe
+C:\Users\Administrator\Documents\Libra\Firme\MIP Sisak\cs_mip\mip_dos\mip_dos\obj\Debug\mip_dos.pdb
+C:\Users\Administrator\Documents\Libra\Firme\MIP Sisak\cs_mip\V1_samo WL60 test\mip_dos\mip_dos\bin\Debug\mip_dos.exe.config
+C:\Users\Administrator\Documents\Libra\Firme\MIP Sisak\cs_mip\V1_samo WL60 test\mip_dos\mip_dos\obj\Debug\mip_dos.exe
+C:\Users\Administrator\Documents\Libra\Firme\MIP Sisak\cs_mip\V1_samo WL60 test\mip_dos\mip_dos\obj\Debug\mip_dos.pdb
+C:\Users\Administrator\Documents\Libra\Firme\MIP Sisak\cs_mip\V1_samo WL60 test\mip_dos\mip_dos\bin\Debug\mip_dos.exe
+C:\Users\Administrator\Documents\Libra\Firme\MIP Sisak\cs_mip\V1_samo WL60 test\mip_dos\mip_dos\bin\Debug\mip_dos.pdb
+C:\Users\Administrator\Documents\Libra\Firme\MIP Sisak\cs_mip\V1_samo WL60 test\mip_dos\mip_dos\obj\Debug\mip_dos.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Libra\Firme\MIP Sisak\cs_mip\V1_samo WL60 test\mip_dos\mip_dos\obj\Debug\mip_dos.Form1.resources
+C:\Users\Administrator\Documents\Libra\Firme\MIP Sisak\cs_mip\V1_samo WL60 test\mip_dos\mip_dos\obj\Debug\mip_dos.Properties.Resources.resources
+C:\Users\Administrator\Documents\Libra\Firme\MIP Sisak\cs_mip\V1_samo WL60 test\mip_dos\mip_dos\obj\Debug\mip_dos.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Libra\Laumas\V1_WL60\mip_dos\mip_dos\bin\Debug\mip_dos.exe.config
+C:\Users\Administrator\Documents\Libra\Laumas\V1_WL60\mip_dos\mip_dos\obj\Debug\mip_dos.exe
+C:\Users\Administrator\Documents\Libra\Laumas\V1_WL60\mip_dos\mip_dos\obj\Debug\mip_dos.pdb
+C:\Users\Administrator\Documents\Libra\Laumas\V1_WL60\mip_dos\mip_dos\bin\Debug\mip_dos.exe
+C:\Users\Administrator\Documents\Libra\Laumas\V1_WL60\mip_dos\mip_dos\bin\Debug\mip_dos.pdb
+C:\Users\Administrator\Documents\Libra\Laumas\V1_WL60\mip_dos\mip_dos\obj\Debug\mip_dos.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Libra\Laumas\V1_WL60\mip_dos\mip_dos\obj\Debug\laumas_wl60.Form1.resources
+C:\Users\Administrator\Documents\Libra\Laumas\V1_WL60\mip_dos\mip_dos\obj\Debug\laumas_wl60.Properties.Resources.resources
+C:\Users\Administrator\Documents\Libra\Laumas\V1_WL60\mip_dos\mip_dos\obj\Debug\mip_dos.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Libra\Laumas\V1_WL60\mip_dos\mip_dos\bin\Debug\laumas_wl60.exe.config
