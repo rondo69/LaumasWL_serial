@@ -30,10 +30,6 @@
         {
             this.components = new System.ComponentModel.Container();
             this.serialPort1 = new System.IO.Ports.SerialPort(this.components);
-            this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.timer2 = new System.Windows.Forms.Timer(this.components);
-            this.timer3 = new System.Windows.Forms.Timer(this.components);
-            this.timer4 = new System.Windows.Forms.Timer(this.components);
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.label7 = new System.Windows.Forms.Label();
             this.lblStabilityIndicator = new System.Windows.Forms.Label();
@@ -71,7 +67,6 @@
             this.tbComP = new System.Windows.Forms.TextBox();
             this.lblPortOpen = new System.Windows.Forms.Label();
             this.btnClP = new System.Windows.Forms.Button();
-            this.timer5 = new System.Windows.Forms.Timer(this.components);
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -82,26 +77,6 @@
             // serialPort1
             // 
             this.serialPort1.DataReceived += new System.IO.Ports.SerialDataReceivedEventHandler(this.serialPort1_DataReceived_1);
-            // 
-            // timer1
-            // 
-            this.timer1.Interval = 150;
-            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
-            // 
-            // timer2
-            // 
-            this.timer2.Interval = 75;
-            this.timer2.Tick += new System.EventHandler(this.timer2_Tick);
-            // 
-            // timer3
-            // 
-            this.timer3.Interval = 600;
-            this.timer3.Tick += new System.EventHandler(this.timer3_Tick);
-            // 
-            // timer4
-            // 
-            this.timer4.Interval = 1000;
-            this.timer4.Tick += new System.EventHandler(this.timer4_Tick);
             // 
             // groupBox1
             // 
@@ -122,7 +97,7 @@
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label7.Location = new System.Drawing.Point(216, 70);
+            this.label7.Location = new System.Drawing.Point(181, 70);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(28, 31);
             this.label7.TabIndex = 39;
@@ -146,7 +121,7 @@
             this.lblStableWeight.Enabled = false;
             this.lblStableWeight.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.lblStableWeight.ForeColor = System.Drawing.Color.Blue;
-            this.lblStableWeight.Location = new System.Drawing.Point(71, 70);
+            this.lblStableWeight.Location = new System.Drawing.Point(46, 70);
             this.lblStableWeight.Name = "lblStableWeight";
             this.lblStableWeight.Size = new System.Drawing.Size(110, 31);
             this.lblStableWeight.TabIndex = 37;
@@ -159,7 +134,7 @@
             this.lblWeight.Enabled = false;
             this.lblWeight.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.lblWeight.ForeColor = System.Drawing.Color.Blue;
-            this.lblWeight.Location = new System.Drawing.Point(71, 25);
+            this.lblWeight.Location = new System.Drawing.Point(46, 25);
             this.lblWeight.Name = "lblWeight";
             this.lblWeight.Size = new System.Drawing.Size(110, 31);
             this.lblWeight.TabIndex = 36;
@@ -169,7 +144,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label4.Location = new System.Drawing.Point(216, 25);
+            this.label4.Location = new System.Drawing.Point(181, 25);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(210, 31);
             this.label4.TabIndex = 35;
@@ -311,7 +286,7 @@
             this.lblContStatus.Enabled = false;
             this.lblContStatus.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.lblContStatus.ForeColor = System.Drawing.Color.Green;
-            this.lblContStatus.Location = new System.Drawing.Point(181, 32);
+            this.lblContStatus.Location = new System.Drawing.Point(184, 40);
             this.lblContStatus.Name = "lblContStatus";
             this.lblContStatus.Size = new System.Drawing.Size(67, 16);
             this.lblContStatus.TabIndex = 32;
@@ -348,7 +323,7 @@
             // lblCountEnd
             // 
             this.lblCountEnd.AutoSize = true;
-            this.lblCountEnd.Location = new System.Drawing.Point(181, 73);
+            this.lblCountEnd.Location = new System.Drawing.Point(184, 83);
             this.lblCountEnd.Name = "lblCountEnd";
             this.lblCountEnd.Size = new System.Drawing.Size(118, 13);
             this.lblCountEnd.TabIndex = 30;
@@ -380,7 +355,7 @@
             this.lblDemandStatus.Enabled = false;
             this.lblDemandStatus.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.lblDemandStatus.ForeColor = System.Drawing.Color.Green;
-            this.lblDemandStatus.Location = new System.Drawing.Point(181, 14);
+            this.lblDemandStatus.Location = new System.Drawing.Point(184, 15);
             this.lblDemandStatus.Name = "lblDemandStatus";
             this.lblDemandStatus.Size = new System.Drawing.Size(67, 16);
             this.lblDemandStatus.TabIndex = 33;
@@ -389,7 +364,7 @@
             // tbWriteSP1
             // 
             this.tbWriteSP1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.tbWriteSP1.Location = new System.Drawing.Point(168, 193);
+            this.tbWriteSP1.Location = new System.Drawing.Point(187, 201);
             this.tbWriteSP1.Name = "tbWriteSP1";
             this.tbWriteSP1.Size = new System.Drawing.Size(93, 20);
             this.tbWriteSP1.TabIndex = 28;
@@ -455,7 +430,7 @@
             // btnReadSP1
             // 
             this.btnReadSP1.Enabled = false;
-            this.btnReadSP1.Location = new System.Drawing.Point(6, 146);
+            this.btnReadSP1.Location = new System.Drawing.Point(6, 155);
             this.btnReadSP1.Name = "btnReadSP1";
             this.btnReadSP1.Size = new System.Drawing.Size(150, 32);
             this.btnReadSP1.TabIndex = 22;
@@ -502,7 +477,7 @@
             // tbComP
             // 
             this.tbComP.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.tbComP.Location = new System.Drawing.Point(184, 31);
+            this.tbComP.Location = new System.Drawing.Point(187, 27);
             this.tbComP.Name = "tbComP";
             this.tbComP.Size = new System.Drawing.Size(57, 20);
             this.tbComP.TabIndex = 42;
@@ -515,7 +490,7 @@
             this.lblPortOpen.Enabled = false;
             this.lblPortOpen.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.lblPortOpen.ForeColor = System.Drawing.Color.Green;
-            this.lblPortOpen.Location = new System.Drawing.Point(266, 31);
+            this.lblPortOpen.Location = new System.Drawing.Point(269, 27);
             this.lblPortOpen.Name = "lblPortOpen";
             this.lblPortOpen.Size = new System.Drawing.Size(87, 16);
             this.lblPortOpen.TabIndex = 41;
@@ -524,19 +499,13 @@
             // btnClP
             // 
             this.btnClP.ForeColor = System.Drawing.Color.Red;
-            this.btnClP.Location = new System.Drawing.Point(438, 19);
+            this.btnClP.Location = new System.Drawing.Point(553, 19);
             this.btnClP.Name = "btnClP";
             this.btnClP.Size = new System.Drawing.Size(150, 32);
             this.btnClP.TabIndex = 40;
             this.btnClP.Text = "Close port  and exit";
             this.btnClP.UseVisualStyleBackColor = true;
             this.btnClP.Click += new System.EventHandler(this.btnClP_Click);
-            // 
-            // timer5
-            // 
-            this.timer5.Enabled = true;
-            this.timer5.Interval = 50;
-            this.timer5.Tick += new System.EventHandler(this.timer5_Tick);
             // 
             // Form1
             // 
@@ -571,10 +540,6 @@
         #endregion
 
         private System.IO.Ports.SerialPort serialPort1;
-        private System.Windows.Forms.Timer timer1;
-        private System.Windows.Forms.Timer timer2;
-        private System.Windows.Forms.Timer timer3;
-        private System.Windows.Forms.Timer timer4;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.Label lblStableWeight;
         private System.Windows.Forms.Label lblWeight;
@@ -612,7 +577,6 @@
         private System.Windows.Forms.Label lblDemandStatus;
         private System.Windows.Forms.Label lblStabilityIndicator;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Timer timer5;
     }
 }
 
