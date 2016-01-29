@@ -1,7 +1,5 @@
-# Laumas WL60 weigh scale terminal - serial communication demo
-
-This is a [Sandstorm](http://sandstorm.io) app originally created in one day.
-It is primarily a mash-up of three things:
+# Laumas WL60 weigh scale terminal 
+# serial communication demo
 
 This is my implementation of a simple program communicating via serial port with [Laumas WL60] (http://www.laumas.com/en/prodotti_scheda.php?iDP=264).
 

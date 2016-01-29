@@ -59,7 +59,7 @@ namespace laumas_wl60
                 return;
             }
             Globals.inhibitTimer1 = true;
-            SendCommand("$01n");// using read net in cont. mode
+            SendCommand("$01n");// we're using read net in cont. mode
         }
 
         private void TTTimer2_Elapsed(object sender, System.Timers.ElapsedEventArgs e)// informal checkbox for ok reply
