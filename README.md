@@ -1,5 +1,4 @@
-# Laumas WL60 weigh scale terminal 
-# serial communication demo
+# Laumas WL60 weigh scale terminal - serial communication demo
 
 This is my implementation of a simple program communicating via serial port with [Laumas WL60] (http://www.laumas.com/en/prodotti_scheda.php?iDP=264).
 
