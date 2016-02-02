@@ -1,4 +1,6 @@
-# Laumas WL60 weigh scale terminal - serial communication demo
+# Laumas WL60 weigh scale terminal
+
+## Serial communication demo
 
 This is my implementation of a simple program communicating via serial port with [Laumas WL60] (http://www.laumas.com/en/prodotti_scheda.php?iDP=264).
 
@@ -18,7 +20,7 @@ There are 4 main methods used once when com port is opened:
 
 It's ok to send on demand commands (zero, tare, change set-point...) during continuous mode. 
 
-# Note
+## Note
 This is not production version, or API, it is excerpt from bigger program utilizing WL60. 
 You are free to use all or part of the project. Comments are welcomed.
 
